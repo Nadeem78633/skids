@@ -1,0 +1,40 @@
+{
+  "books": [
+    {
+      "name": "Mohd Nadeem",
+      "email": "nadeem4code@gmail.com",
+      "number": "7457861116",
+      "id": 1
+    },
+    {
+      "name": "Mohd Suhel",
+      "number": "6786857585",
+      "email": "mohdsuhel@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Milan Gupta",
+      "email": "milan@gmail.com",
+      "number": "4216498326",
+      "id": 3
+    },
+    {
+      "name": "Unis",
+      "email": "unis@gmail.com",
+      "number": "3475840658",
+      "id": 4
+    },
+    {
+      "name": "gupta",
+      "email": "gupta@gmail.com",
+      "number": "2523532535",
+      "id": 5
+    },
+    {
+      "name": "Himanshu Sharma ",
+      "email": "himanshu@gmail.com",
+      "number": "3456657698",
+      "id": 6
+    }
+  ]
+}
